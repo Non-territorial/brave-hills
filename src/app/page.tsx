@@ -34,12 +34,12 @@ export default function Home() {
             Baudrillard Aesthetic Illusion and Disillusion, 1995
           </p>
           <p className="mt-2">
-            <a href="mailto:i@bravehills.net" className="text-base text-gray-400 hover:text-gray-800">
+            <a href="mailto:i@bravehills.net" className="text-base text-gray-400 hover:text-white">
               i@bravehills.net
             </a>
           </p>
           <p>
-            <a href="tel:+393515635054" className="text-base text-gray-400 hover:text-gray-800">
+            <a href="tel:+393515635054" className="text-base text-gray-400 hover:text-white">
               +39 351 563 5054
             </a>
           </p>

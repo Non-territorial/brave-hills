@@ -30,8 +30,8 @@ export default function Home() {
             &quot;aesthetic&quot; illusion, the radical illusion of secret, seduction, and
             magic? Is there still, on the edges of hyper-visibility, of
             virtuality, room for an image? Room for an enigma? Room for the power
-            of illusion, a veritable strategy of forms and appearances?&quot; Jean
-            Baudrillard Aesthetic Illusion and Disillusion, 1995
+            of illusion, a veritable strategy of forms and appearances?&quot; <br />
+            Jean Baudrillard Aesthetic Illusion and Disillusion, 1995
           </p>
           <p className="mt-2">
             <a href="mailto:i@bravehills.net" className="text-base text-gray-400 hover:text-white">

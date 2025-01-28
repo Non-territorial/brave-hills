@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <div className="min-h-screen bg-black text-white font-ibm-plex-mono">
       {/* Video Section */}
-      <section className="h-[73vh] w-full relative">
+      <section className="h-[74vh] w-full relative">
         <video
           className="w-full h-full object-cover"
           loop
@@ -20,7 +20,7 @@ export default function Home() {
       </section>
 
       {/* Text Content Section */}
-      <main className="h-[27vh] w-full py-4 px-2 text-white leading-relaxed text-left">
+      <main className="h-[26vh] w-full py-2 px-2 text-white leading-relaxed text-left">
         <div className="max-w-none">
           <h1 className="text-base text-white mb-2">BRAVE HILLS</h1>
           <p className="text-base">Brave Hills is a Concept Studio</p>

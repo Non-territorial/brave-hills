@@ -25,11 +25,11 @@ export default function Home() {
           <p className="mb-2">Brave Hills is a Concept Studio</p>
           <p className="mb-4">ブレイブヒルズはコンセプトスタジオ</p>
           <p className="mb-4">
-            "Is there still an aesthetic illusion? And if not, a path to an
-            "aesthetic" illusion, the radical illusion of secret, seduction, and
+          &quot;Is there still an aesthetic illusion? And if not, a path to an
+            &quot;aesthetic&quot; illusion, the radical illusion of secret, seduction, and
             magic? Is there still, on the edges of hyper-visibility, of
             virtuality, room for an image? Room for an enigma? Room for the power
-            of illusion, a veritable strategy of forms and appearances?" 
+            of illusion, a veritable strategy of forms and appearances?&quot;
             Jean Baudrillard Aesthetic Illusion and Disillusion, 1995
           </p>
           <p className="mt-4">

@@ -26,11 +26,11 @@ export default function Home() {
           <p className="text-base">Brave Hills is a Concept Studio</p>
           <p className="text-base mb-2">ブレイブヒルズはコンセプトスタジオ</p>
           <p className="text-base">
-            Is there still an aesthetic illusion? And if not, a path to an
-            "aesthetic" illusion, the radical illusion of secret, seduction, and
+          &quot;Is there still an aesthetic illusion? And if not, a path to an
+            &quot;aesthetic&quot; illusion, the radical illusion of secret, seduction, and
             magic? Is there still, on the edges of hyper-visibility, of
             virtuality, room for an image? Room for an enigma? Room for the power
-            of illusion, a veritable strategy of forms and appearances? Jean
+            of illusion, a veritable strategy of forms and appearances?&quot; Jean
             Baudrillard Aesthetic Illusion and Disillusion, 1995
           </p>
           <p className="mt-2">

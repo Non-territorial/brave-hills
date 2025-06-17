@@ -35,12 +35,7 @@ export default function Home() {
           </p>
           <p className="mt-2">
             <a href="mailto:i@bravehills.net" className="text-base text-gray-400 hover:text-white">
-              i@bravehills.net
-            </a>
-          </p>
-          <p>
-            <a href="tel:+393515635054" className="text-base text-gray-400 hover:text-white">
-              +39 351 563 5054
+             Contact
             </a>
           </p>
           <p className="mt-2 text-sm">&copy; 2025 Brave Hills. All rights reserved.</p>

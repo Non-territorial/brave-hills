@@ -35,7 +35,7 @@ export default function Home() {
           </p>
           <p className="mt-2">
             <a href="mailto:i@bravehills.net" className="text-base text-gray-400 hover:text-white">
-             Contact
+             Contacts
             </a>
           </p>
           <p className="mt-2 text-sm">&copy; 2025 Brave Hills. All rights reserved.</p>
